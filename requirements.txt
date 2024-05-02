@@ -56,7 +56,7 @@ validators
 vcsi
 wand
 wget
-
+lxml[html_clean]
 git+https://github.com/Jisan09/search-engine-parser
 git+https://github.com/Jisan09/Telethon@test
 git+https://github.com/goldsmith/Wikipedia
